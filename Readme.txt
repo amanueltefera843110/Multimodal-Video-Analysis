@@ -1,4 +1,4 @@
-# YouTube Transcript AI
+# Youtubgbt
 
 YouTube Transcript AI is a Flask web application that lets you analyze any YouTube video by extracting its transcript, generating topic summaries with timestamps, and answering custom questions using Google's Gemini AI.
 

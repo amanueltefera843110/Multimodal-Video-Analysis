@@ -18,7 +18,7 @@ HTML_TEMPLATE = """
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>YouTube AI</title>
+  <title>Youtubgbt</title>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
   <style>
     /* Basic Reset */
@@ -189,7 +189,7 @@ HTML_TEMPLATE = """
       <p>Processing your request, please wait...</p>
     </div>
     <div class="header">
-      <h1><i class="fab fa-youtube"></i> YouTube AI</h1>
+      <h1><i class="fab fa-youtube"></i> Youtubgbt</h1>
       <p>Ask anything about a YouTube video</p>
     </div>
     <div class="main-card">
